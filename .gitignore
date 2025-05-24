@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/output.css
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code config
+.vscode/
+
+# Log files
+npm-debug.log*
